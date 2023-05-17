@@ -1,11 +1,9 @@
 ## Olá! Eu sou o Elias Pacheco 🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
-[![Youtube](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-pacheco-450373218/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eliaaspacheco)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![Elias Pacheco GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasPacheco&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -20,8 +18,7 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-### Últimos videos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
-- [O que estudar para se tornar um desenvolvedor front-end? 2022](https://youtu.be/Ab-kGzlCCWI)<br/>
-- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+### Últimos Games/Projeto:
+- [Caça Palavras](https://cacapalavras.vercel.app/)<br/>
+- [Isso x Aquilo](https://game-of-privacy.github.io/issoxaquilo/)<br/>
+- [TeleMed - Video Call](https://telemedvideo.herokuapp.com/)<br/>
