@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0074D9&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Elias+Pacheco!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 
-<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU. Tenho paixão por front e back-end, com experiência em Flutter, React Native, Python, Django e GDScript para jogos. Estou constantemente atualizado na área de tecnologia, buscando criar soluções inovadoras e impactantes.
+<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU. Tenho paixão por front e back-end, com experiência em Flutter, React Native, Javascript e GDScript para jogos. Estou constantemente atualizado na área de tecnologia, buscando criar soluções inovadoras e impactantes.
 
 
 <h3 align="left">Connect with me!</h3>
